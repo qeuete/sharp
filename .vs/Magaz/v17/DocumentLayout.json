@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0438\u043D\u0444\u0430\\\u0420\u041F\u041C\\Magaz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42829B01-B687-46A8-9CDB-99F7A222A54B}|Magaz\\Magaz.csproj|e:\\\u0438\u043D\u0444\u0430\\\u0440\u043F\u043C\\magaz\\magaz\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42829B01-B687-46A8-9CDB-99F7A222A54B}|Magaz\\Magaz.csproj|solutionrelative:magaz\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42829B01-B687-46A8-9CDB-99F7A222A54B}|Magaz\\Magaz.csproj|e:\\\u0438\u043D\u0444\u0430\\\u0440\u043F\u043C\\magaz\\magaz\\views\\account\\autorization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42829B01-B687-46A8-9CDB-99F7A222A54B}|Magaz\\Magaz.csproj|solutionrelative:magaz\\views\\account\\autorization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42829B01-B687-46A8-9CDB-99F7A222A54B}|Magaz\\Magaz.csproj|e:\\\u0438\u043D\u0444\u0430\\\u0440\u043F\u043C\\magaz\\magaz\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42829B01-B687-46A8-9CDB-99F7A222A54B}|Magaz\\Magaz.csproj|solutionrelative:magaz\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42829B01-B687-46A8-9CDB-99F7A222A54B}|Magaz\\Magaz.csproj|e:\\\u0438\u043D\u0444\u0430\\\u0440\u043F\u043C\\magaz\\magaz\\models\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42829B01-B687-46A8-9CDB-99F7A222A54B}|Magaz\\Magaz.csproj|solutionrelative:magaz\\models\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42829B01-B687-46A8-9CDB-99F7A222A54B}|Magaz\\Magaz.csproj|e:\\\u0438\u043D\u0444\u0430\\\u0440\u043F\u043C\\magaz\\magaz\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42829B01-B687-46A8-9CDB-99F7A222A54B}|Magaz\\Magaz.csproj|solutionrelative:magaz\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42829B01-B687-46A8-9CDB-99F7A222A54B}|Magaz\\Magaz.csproj|e:\\\u0438\u043D\u0444\u0430\\\u0440\u043F\u043C\\magaz\\magaz\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42829B01-B687-46A8-9CDB-99F7A222A54B}|Magaz\\Magaz.csproj|solutionrelative:magaz\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Autorization.cshtml",
+              "DocumentMoniker": "E:\\\u0438\u043D\u0444\u0430\\\u0420\u041F\u041C\\Magaz\\Magaz\\Views\\Account\\Autorization.cshtml",
+              "RelativeDocumentMoniker": "Magaz\\Views\\Account\\Autorization.cshtml",
+              "ToolTip": "E:\\\u0438\u043D\u0444\u0430\\\u0420\u041F\u041C\\Magaz\\Magaz\\Views\\Account\\Autorization.cshtml",
+              "RelativeToolTip": "Magaz\\Views\\Account\\Autorization.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T11:20:55.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestContext.cs",
+              "DocumentMoniker": "E:\\\u0438\u043D\u0444\u0430\\\u0420\u041F\u041C\\Magaz\\Magaz\\Models\\TestContext.cs",
+              "RelativeDocumentMoniker": "Magaz\\Models\\TestContext.cs",
+              "ToolTip": "E:\\\u0438\u043D\u0444\u0430\\\u0420\u041F\u041C\\Magaz\\Magaz\\Models\\TestContext.cs",
+              "RelativeToolTip": "Magaz\\Models\\TestContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:03:35.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\\u0438\u043D\u0444\u0430\\\u0420\u041F\u041C\\Magaz\\Magaz\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Magaz\\Models\\Role.cs",
+              "ToolTip": "E:\\\u0438\u043D\u0444\u0430\\\u0420\u041F\u041C\\Magaz\\Magaz\\Models\\Role.cs",
+              "RelativeToolTip": "Magaz\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:56:28.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\\u0438\u043D\u0444\u0430\\\u0420\u041F\u041C\\Magaz\\Magaz\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Magaz\\Models\\User.cs",
+              "ToolTip": "E:\\\u0438\u043D\u0444\u0430\\\u0420\u041F\u041C\\Magaz\\Magaz\\Models\\User.cs",
+              "RelativeToolTip": "Magaz\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:55:30.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\\u0438\u043D\u0444\u0430\\\u0420\u041F\u041C\\Magaz\\Magaz\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Magaz\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\\u0438\u043D\u0444\u0430\\\u0420\u041F\u041C\\Magaz\\Magaz\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Magaz\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:36:03.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\\u0438\u043D\u0444\u0430\\\u0420\u041F\u041C\\Magaz\\Magaz\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Magaz\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\\u0438\u043D\u0444\u0430\\\u0420\u041F\u041C\\Magaz\\Magaz\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Magaz\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T10:51:00.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
